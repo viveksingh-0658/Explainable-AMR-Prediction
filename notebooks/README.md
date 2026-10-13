@@ -1,0 +1,1 @@
+Suggested notebooks: 01_dataset_audit.ipynb, 02_label_mapping.ipynb, 03_baseline_model.ipynb, 04_evaluation.ipynb, 05_gradcam_analysis.ipynb. Start with the audit.

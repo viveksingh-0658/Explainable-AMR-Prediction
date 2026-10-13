@@ -1,0 +1,1 @@
+Save dataset documentation and notes describing label definitions and how image IDs map to isolates and antibiotics. Record unresolved mappings explicitly.

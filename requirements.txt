@@ -1,0 +1,10 @@
+# Recommended: Python 3.11 or 3.12 in a virtual environment
+pandas
+numpy
+pillow
+matplotlib
+scikit-learn
+jupyter
+torch
+torchvision
+grad-cam
