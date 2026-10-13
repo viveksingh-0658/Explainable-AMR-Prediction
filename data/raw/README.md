@@ -1,0 +1,1 @@
+Place the original SIRscan dataset here only after confirming the source and contents. Keep original files unchanged and avoid duplicate large copies.

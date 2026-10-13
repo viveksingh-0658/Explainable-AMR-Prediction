@@ -1,0 +1,1 @@
+Store small derived indexes and split manifests here. Prefer CSV paths over duplicate copies of original images.
