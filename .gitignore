@@ -1,0 +1,14 @@
+
+# Raw dataset stays local
+data/raw/SIRscan/images_original/
+data/raw/SIRscan/images_measured/
+data/raw/SIRscan/Tables/
+data/raw/SIRscan/README.md
+
+# Generated files
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
